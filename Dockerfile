@@ -1,3 +1,3 @@
 FROM testcafe/testcafe
 
-RUN npm install testcafe-reporter-teamcity
+RUN npm install -g testcafe-reporter-teamcity
